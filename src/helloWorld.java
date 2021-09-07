@@ -9,6 +9,6 @@ public class helloWorld {
         int num = 10;
         System.out.println("Number = "+num);
         num = 2*num;
-        System.out.println("Value of num *2 "+num);
+        System.out.println("Value of num multiplied by 2 ="+num);
     }
 }
